@@ -8,7 +8,7 @@ testtestestpleas show up omg spread them cheeks
 <p>
 archive for brdatheist / thomas.
 </p>
-body {
+.body {
   background-image: url("https://files.catbox.moe/ew1g81.jpeg");
 }
 </html>
